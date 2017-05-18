@@ -7,3 +7,4 @@ This repository is created to trace my work on solving problems on UVa online ju
 # Useful Links
 - Uva: http://uhunt.felix-halim.net/id/339
 - codeforcesProblemSets: http://codeforces.com/problemset
+- NZPC 2016: http://domarchive.cosc.canterbury.ac.nz/team/scoreboard.php
